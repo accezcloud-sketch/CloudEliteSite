@@ -34,20 +34,22 @@ export default function Contact() {
                   Email Us
                 </h4>
                 <p className="text-[0.88rem] text-gray-500">
-                  info@cloudelite.co
+                  contact@cloudelite.co
                 </p>
               </div>
             </div>
 
             <div className="flex gap-4 items-start mb-6">
               <div className="w-11 h-11 min-w-11 rounded-xl bg-white border border-gray-100 flex items-center justify-center text-lg">
-                🌐
+                🕐
               </div>
               <div>
                 <h4 className="text-[0.88rem] font-semibold text-navy mb-0.5">
-                  Visit Our Website
+                  Business Hours
                 </h4>
-                <p className="text-[0.88rem] text-gray-500">cloudelite.co</p>
+                <p className="text-[0.88rem] text-gray-500">
+                  Mon–Fri: 9AM – 6PM
+                </p>
               </div>
             </div>
 
