@@ -92,21 +92,21 @@ export const features = [
 
 export const footerLinks = {
   services: [
-    { label: "Sales Cloud®", href: "#" },
-    { label: "Service Cloud®", href: "#" },
-    { label: "Marketing Cloud®", href: "#" },
-    { label: "Experience Cloud®", href: "#" },
+    { label: "Sales Cloud®", href: "/" },
+    { label: "Service Cloud®", href: "/" },
+    { label: "Marketing Cloud®", href: "/" },
+    { label: "Experience Cloud®", href: "/" },
   ],
   company: [
-    { label: "About Us", href: "#" },
-    { label: "Careers", href: "#" },
+    { label: "About Us", href: "/" },
+    { label: "Careers", href: "/" },
     { label: "Blog", href: "/blog" },
-    { label: "Contact", href: "#contact" },
+    { label: "Contact", href: "/#contact" },
   ],
   resources: [
-    { label: "Case Studies", href: "#" },
-    { label: "Whitepapers", href: "#" },
-    { label: "Privacy Policy", href: "#" },
-    { label: "Terms of Service", href: "#" },
+    { label: "Case Studies", href: "/" },
+    { label: "Whitepapers", href: "/" },
+    { label: "Privacy Policy", href: "/" },
+    { label: "Terms of Service", href: "/" },
   ],
 };

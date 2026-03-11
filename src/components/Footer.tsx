@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-[1.5fr_1fr_1fr_1fr] gap-10 pb-10 border-b border-white/[0.06] max-lg:grid-cols-2 max-md:grid-cols-1 max-md:gap-7.5">
           {/* Brand */}
           <div>
-            <a href="#" className="flex items-center gap-2.5 no-underline mb-4">
+            <a href="/" className="flex items-center gap-2.5 no-underline mb-4">
               <Image src="/logo.png" alt="CloudElite logo" width={140} height={40} className="h-10 w-auto" />
             </a>
             <p className="text-[0.88rem] leading-[1.7] max-w-[300px] mb-5">
