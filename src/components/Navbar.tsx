@@ -52,6 +52,14 @@ export default function Navbar() {
           </li>
           <li>
             <a
+              href="/blog"
+              className="text-sm font-medium text-gray-300 no-underline transition-colors duration-300 tracking-wide hover:text-white"
+            >
+              Blog
+            </a>
+          </li>
+          <li>
+            <a
               href="#contact"
               className="bg-linear-to-br from-sf-blue to-sf-blue-dark text-white px-6 py-2.5 rounded-lg font-semibold text-sm no-underline transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[0_6px_20px_rgba(0,161,224,0.35)]"
             >
@@ -95,6 +103,13 @@ export default function Navbar() {
             className="text-sm font-medium text-gray-300 no-underline hover:text-white"
           >
             Contact
+          </a>
+          <a
+            href="/blog"
+            onClick={() => setMenuOpen(false)}
+            className="text-sm font-medium text-gray-300 no-underline hover:text-white"
+          >
+            Blog
           </a>
           <a
             href="#contact"
