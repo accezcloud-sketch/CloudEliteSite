@@ -4,26 +4,26 @@ import { useEffect } from "react";
 import Script from "next/script";
 
 export default function ContactForm() {
-  useEffect(() => {
-    const timestamp = () => {
-      const response = document.getElementById(
-        "g-recaptcha-response"
-      ) as HTMLInputElement | null;
-      if (response == null || response.value.trim() === "") {
-        const captchaSettings = document.getElementsByName(
-          "captcha_settings"
-        )[0] as HTMLInputElement;
-        if (captchaSettings) {
-          const elems = JSON.parse(captchaSettings.value);
-          elems["ts"] = JSON.stringify(new Date().getTime());
-          captchaSettings.value = JSON.stringify(elems);
-        }
-      }
-    };
+  // useEffect(() => {
+  //   const timestamp = () => {
+  //     const response = document.getElementById(
+  //       "g-recaptcha-response"
+  //     ) as HTMLInputElement | null;
+  //     if (response == null || response.value.trim() === "") {
+  //       const captchaSettings = document.getElementsByName(
+  //         "captcha_settings"
+  //       )[0] as HTMLInputElement;
+  //       if (captchaSettings) {
+  //         const elems = JSON.parse(captchaSettings.value);
+  //         elems["ts"] = JSON.stringify(new Date().getTime());
+  //         captchaSettings.value = JSON.stringify(elems);
+  //       }
+  //     }
+  //   };
 
-    const interval = setInterval(timestamp, 500);
-    return () => clearInterval(interval);
-  }, []);
+  //   const interval = setInterval(timestamp, 500);
+  //   return () => clearInterval(interval);
+  // }, []);
 
   const inputClass =
     "w-full px-4 py-3.5 font-body text-[0.92rem] text-navy bg-off-white border border-gray-100 rounded-[10px] outline-none transition-all duration-300 focus:border-sf-blue focus:shadow-[0_0_0_3px_rgba(0,161,224,0.1)] focus:bg-white";
@@ -45,16 +45,16 @@ export default function ContactForm() {
         </h3>
 
         {/* Hidden Salesforce Fields */}
-        <input
+        {/* <input
           type="hidden"
           name="captcha_settings"
-          value='{"keyname":"AccezV2","fallback":"true","orgId":"00D41000002kA0p","ts":""}'
-        />
+          value='{"keyname":"CloudEliteV2","fallback":"true","orgId":"00D41000002kA0p","ts":""}'
+        /> */}
         <input type="hidden" name="oid" value="00D41000002kA0p" />
         <input
           type="hidden"
           name="retURL"
-          value="https://accez.cloud/thankyou"
+          value="https://cloudelite.co/thankyou"
         />
         <input
           type="hidden"
@@ -186,10 +186,10 @@ export default function ContactForm() {
         </div>
 
         {/* reCAPTCHA */}
-        <div
+        {/* <div
           className="g-recaptcha mb-6"
-          data-sitekey="6LdtnJAqAAAAAJe1H98R4i-d0Ge3hiGZUTWS3btY"
-        />
+          data-sitekey="6Leh2n8sAAAAAPdI5TeoZC3Ydo9t4mKnnw5JoPNI"
+        /> */}
 
         <button
           type="submit"
