@@ -10,8 +10,13 @@ export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
 }
 
-export function generateMetadata({ params }: { params: { slug: string } }) {
-  const post = getPostBySlug(params.slug);
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  const { slug } = await params;
+  const post = getPostBySlug(slug);
   if (!post) return {};
   return {
     title: `${post.title} — CloudElite Blog`,
@@ -19,12 +24,13 @@ export function generateMetadata({ params }: { params: { slug: string } }) {
   };
 }
 
-export default function BlogPostPage({
+export default async function BlogPostPage({
   params,
 }: {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }) {
-  const post = getPostBySlug(params.slug);
+  const { slug } = await params;
+  const post = getPostBySlug(slug);
   if (!post) notFound();
 
   return (
