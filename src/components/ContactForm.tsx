@@ -1,29 +1,10 @@
 "use client";
 
-import { useEffect } from "react";
 import Script from "next/script";
+import { useLocale } from "@/lib/i18n/LocaleContext";
 
 export default function ContactForm() {
-  // useEffect(() => {
-  //   const timestamp = () => {
-  //     const response = document.getElementById(
-  //       "g-recaptcha-response"
-  //     ) as HTMLInputElement | null;
-  //     if (response == null || response.value.trim() === "") {
-  //       const captchaSettings = document.getElementsByName(
-  //         "captcha_settings"
-  //       )[0] as HTMLInputElement;
-  //       if (captchaSettings) {
-  //         const elems = JSON.parse(captchaSettings.value);
-  //         elems["ts"] = JSON.stringify(new Date().getTime());
-  //         captchaSettings.value = JSON.stringify(elems);
-  //       }
-  //     }
-  //   };
-
-  //   const interval = setInterval(timestamp, 500);
-  //   return () => clearInterval(interval);
-  // }, []);
+  const { locale, dict } = useLocale();
 
   const inputClass =
     "w-full px-4 py-3.5 font-body text-[0.92rem] text-navy bg-off-white border border-gray-100 rounded-[10px] outline-none transition-all duration-300 focus:border-sf-blue focus:shadow-[0_0_0_3px_rgba(0,161,224,0.1)] focus:bg-white";
@@ -41,20 +22,15 @@ export default function ContactForm() {
         className="bg-white border border-gray-100 rounded-[20px] p-11 shadow-[0_8px_40px_rgba(11,29,58,0.06)] max-md:p-7"
       >
         <h3 className="font-display text-2xl font-semibold text-navy mb-6">
-          Request a Free Consultation
+          {dict.contact.formTitle}
         </h3>
 
         {/* Hidden Salesforce Fields */}
-        {/* <input
-          type="hidden"
-          name="captcha_settings"
-          value='{"keyname":"CloudEliteV2","fallback":"true","orgId":"00D41000002kA0p","ts":""}'
-        /> */}
         <input type="hidden" name="oid" value="00D41000002kA0p" />
         <input
           type="hidden"
           name="retURL"
-          value="https://cloudelite.co/thankyou"
+          value={`https://cloudelite.co/${locale}/thankyou`}
         />
         <input
           type="hidden"
@@ -70,14 +46,14 @@ export default function ContactForm() {
               htmlFor="first_name"
               className="block text-[0.82rem] font-semibold text-navy mb-1.5 tracking-wide"
             >
-              First Name
+              {dict.contact.firstName}
             </label>
             <input
               id="first_name"
               maxLength={40}
               name="first_name"
               type="text"
-              placeholder="John"
+              placeholder={dict.contact.firstNamePlaceholder}
               className={inputClass}
             />
           </div>
@@ -86,14 +62,14 @@ export default function ContactForm() {
               htmlFor="last_name"
               className="block text-[0.82rem] font-semibold text-navy mb-1.5 tracking-wide"
             >
-              Last Name
+              {dict.contact.lastName}
             </label>
             <input
               id="last_name"
               maxLength={80}
               name="last_name"
               type="text"
-              placeholder="Doe"
+              placeholder={dict.contact.lastNamePlaceholder}
               className={inputClass}
             />
           </div>
@@ -104,14 +80,14 @@ export default function ContactForm() {
             htmlFor="email"
             className="block text-[0.82rem] font-semibold text-navy mb-1.5 tracking-wide"
           >
-            Work Email
+            {dict.contact.workEmail}
           </label>
           <input
             id="email"
             maxLength={80}
             name="email"
             type="email"
-            placeholder="john@company.com"
+            placeholder={dict.contact.emailPlaceholder}
             className={inputClass}
           />
         </div>
@@ -121,14 +97,14 @@ export default function ContactForm() {
             htmlFor="company"
             className="block text-[0.82rem] font-semibold text-navy mb-1.5 tracking-wide"
           >
-            Company
+            {dict.contact.company}
           </label>
           <input
             id="company"
             maxLength={40}
             name="company"
             type="text"
-            placeholder="Your company name"
+            placeholder={dict.contact.companyPlaceholder}
             className={inputClass}
           />
         </div>
@@ -139,14 +115,14 @@ export default function ContactForm() {
               htmlFor="mobile"
               className="block text-[0.82rem] font-semibold text-navy mb-1.5 tracking-wide"
             >
-              Mobile
+              {dict.contact.mobile}
             </label>
             <input
               id="mobile"
               maxLength={40}
               name="mobile"
               type="tel"
-              placeholder="+1 234 567 8900"
+              placeholder={dict.contact.mobilePlaceholder}
               className={inputClass}
             />
           </div>
@@ -155,14 +131,14 @@ export default function ContactForm() {
               htmlFor="city"
               className="block text-[0.82rem] font-semibold text-navy mb-1.5 tracking-wide"
             >
-              City
+              {dict.contact.city}
             </label>
             <input
               id="city"
               maxLength={40}
               name="city"
               type="text"
-              placeholder="New York"
+              placeholder={dict.contact.cityPlaceholder}
               className={inputClass}
             />
           </div>
@@ -173,30 +149,24 @@ export default function ContactForm() {
             htmlFor="Description"
             className="block text-[0.82rem] font-semibold text-navy mb-1.5 tracking-wide"
           >
-            Tell us about your project
+            {dict.contact.projectLabel}
           </label>
           <textarea
             id="Description"
             maxLength={3000}
             name="description"
             rows={4}
-            placeholder="Briefly describe your goals and challenges..."
+            placeholder={dict.contact.projectPlaceholder}
             className={`${inputClass} resize-y min-h-[110px]`}
           />
         </div>
-
-        {/* reCAPTCHA */}
-        {/* <div
-          className="g-recaptcha mb-6"
-          data-sitekey="6Leh2n8sAAAAAPdI5TeoZC3Ydo9t4mKnnw5JoPNI"
-        /> */}
 
         <button
           type="submit"
           name="submit"
           className="w-full py-4 font-body text-base font-semibold text-white bg-linear-to-br from-sf-blue to-sf-blue-dark border-none rounded-[10px] cursor-pointer transition-all duration-300 shadow-[0_4px_20px_rgba(0,161,224,0.25)] mt-2 hover:-translate-y-0.5 hover:shadow-[0_8px_30px_rgba(0,161,224,0.35)]"
         >
-          Submit Request →
+          {dict.contact.submit}
         </button>
       </form>
     </>

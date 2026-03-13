@@ -1,11 +1,13 @@
 "use client";
 
 import { useScrollAnimation } from "@/hooks/useScrollAnimation";
+import { useLocale } from "@/lib/i18n/LocaleContext";
 import ContactForm from "./ContactForm";
 
 export default function Contact() {
   const infoRef = useScrollAnimation<HTMLDivElement>();
   const formRef = useScrollAnimation<HTMLDivElement>();
+  const { dict } = useLocale();
 
   return (
     <section className="py-25 bg-off-white" id="contact">
@@ -14,15 +16,13 @@ export default function Contact() {
           {/* Info */}
           <div ref={infoRef} className="pt-5 animate-on-scroll">
             <div className="font-body text-xs font-semibold tracking-[3px] uppercase text-sf-blue mb-3">
-              Get In Touch
+              {dict.contact.label}
             </div>
             <h2 className="font-display text-[clamp(2rem,4vw,3rem)] font-semibold text-navy leading-[1.2] mb-5">
-              Let&apos;s Discuss Your Salesforce® Journey
+              {dict.contact.title}
             </h2>
             <p className="text-[1.1rem] text-gray-500 leading-[1.7] max-w-[600px] mb-9">
-              Whether you&apos;re starting fresh or optimizing an existing org,
-              our team is ready to help you unlock the full potential of
-              Salesforce®.
+              {dict.contact.description}
             </p>
 
             <div className="flex gap-4 items-start mb-6">
@@ -31,10 +31,10 @@ export default function Contact() {
               </div>
               <div>
                 <h4 className="text-[0.88rem] font-semibold text-navy mb-0.5">
-                  Email Us
+                  {dict.contact.emailLabel}
                 </h4>
                 <p className="text-[0.88rem] text-gray-500">
-                  contact@cloudelite.co
+                  {dict.contact.email}
                 </p>
               </div>
             </div>
@@ -45,17 +45,17 @@ export default function Contact() {
               </div>
               <div>
                 <h4 className="text-[0.88rem] font-semibold text-navy mb-0.5">
-                  Business Hours
+                  {dict.contact.hoursLabel}
                 </h4>
                 <p className="text-[0.88rem] text-gray-500">
-                  Mon–Fri: 9AM – 6PM
+                  {dict.contact.hours}
                 </p>
               </div>
             </div>
 
             <div className="inline-flex items-center gap-2 bg-sf-blue/[0.08] border border-sf-blue/15 rounded-lg px-4 py-2.5 mt-5">
               <span className="text-[0.82rem] font-semibold text-sf-blue">
-                ☁️ Salesforce® Certified Consulting Partner
+                {dict.contact.certBadge}
               </span>
             </div>
           </div>

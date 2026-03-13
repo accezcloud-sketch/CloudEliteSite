@@ -19,6 +19,7 @@
   /* Fonts */
   --font-body: var(--font-dm-sans), system-ui, sans-serif;
   --font-display: var(--font-playfair), Georgia, serif;
+  --font-arabic: var(--font-arabic), system-ui, sans-serif;
 
   /* Animations */
   --animate-float: float 5s ease-in-out infinite;
@@ -72,6 +73,16 @@ body {
   background: #ffffff;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
+}
+
+/* Arabic font override */
+.font-arabic {
+  font-family: var(--font-arabic), system-ui, sans-serif;
+}
+
+.font-arabic .font-display,
+.font-arabic [class*="font-display"] {
+  font-family: var(--font-arabic), Georgia, serif;
 }
 
 /* Scroll animation */

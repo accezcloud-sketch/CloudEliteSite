@@ -1,19 +1,36 @@
+"use client";
+
 import Image from "next/image";
-import { footerLinks } from "@/lib/constants";
+import { useLocale } from "@/lib/i18n/LocaleContext";
 
 export default function Footer() {
+  const { locale, dict } = useLocale();
+
+  const serviceLinks = [
+    { label: dict.footer.salesCloud, href: `/${locale}/` },
+    { label: dict.footer.serviceCloud, href: `/${locale}/` },
+    { label: dict.footer.marketingCloud, href: `/${locale}/` },
+    { label: dict.footer.experienceCloud, href: `/${locale}/` },
+  ];
+
+  const companyLinks = [
+    { label: dict.footer.aboutUs, href: `/${locale}/` },
+    { label: dict.footer.careers, href: `/${locale}/` },
+    { label: dict.footer.blog, href: `/${locale}/blog` },
+    { label: dict.footer.contact, href: `/${locale}/#contact` },
+  ];
+
   return (
     <footer className="bg-navy text-gray-300 pt-15 pb-7.5">
       <div className="max-w-[1200px] mx-auto px-6">
         <div className="grid grid-cols-[1.5fr_1fr_1fr] gap-10 pb-10 border-b border-white/[0.06] max-lg:grid-cols-2 max-md:grid-cols-1 max-md:gap-7.5">
           {/* Brand */}
           <div>
-            <a href="/" className="flex items-center gap-2.5 no-underline mb-4">
+            <a href={`/${locale}/`} className="flex items-center gap-2.5 no-underline mb-4">
               <Image src="/logo.png" alt="CloudElite logo" width={140} height={40} className="h-10 w-auto" />
             </a>
             <p className="text-[0.88rem] leading-[1.7] max-w-[300px] mb-5">
-              Certified Salesforce® Consulting Partner delivering end-to-end
-              cloud solutions that drive business transformation.
+              {dict.footer.brand}
             </p>
             <div className="flex items-center gap-3">
               <a
@@ -66,10 +83,10 @@ export default function Footer() {
           {/* Services */}
           <div>
             <h4 className="text-[0.8rem] font-semibold tracking-[2px] uppercase text-white mb-4.5">
-              Services
+              {dict.footer.servicesTitle}
             </h4>
             <ul className="list-none">
-              {footerLinks.services.map((link) => (
+              {serviceLinks.map((link) => (
                 <li key={link.label} className="mb-2.5">
                   <a
                     href={link.href}
@@ -85,10 +102,10 @@ export default function Footer() {
           {/* Company */}
           <div>
             <h4 className="text-[0.8rem] font-semibold tracking-[2px] uppercase text-white mb-4.5">
-              Company
+              {dict.footer.companyTitle}
             </h4>
             <ul className="list-none">
-              {footerLinks.company.map((link) => (
+              {companyLinks.map((link) => (
                 <li key={link.label} className="mb-2.5">
                   <a
                     href={link.href}
@@ -100,15 +117,14 @@ export default function Footer() {
               ))}
             </ul>
           </div>
-
         </div>
 
         <div className="flex items-center justify-between pt-6 text-[0.82rem] max-md:flex-col max-md:gap-2 max-md:text-center">
           <p className="text-gray-500">
-            © 2026 CloudElite. All rights reserved.
+            {dict.footer.copyright}
           </p>
           <p className="text-gray-500">
-            Salesforce® is a registered trademark of Salesforce, Inc.
+            {dict.footer.trademark}
           </p>
         </div>
       </div>

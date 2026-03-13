@@ -1,6 +1,17 @@
-import { trustItems } from "@/lib/constants";
+"use client";
+
+import { useLocale } from "@/lib/i18n/LocaleContext";
 
 export default function TrustBar() {
+  const { dict } = useLocale();
+
+  const trustItems = [
+    { icon: "🏆", label: dict.trust.certifiedPartner },
+    { icon: "✓", label: dict.trust.certifiedPersonnel },
+    { icon: "🔒", label: dict.trust.security },
+    { icon: "🌍", label: dict.trust.globalDelivery },
+  ];
+
   return (
     <div className="bg-off-white border-t border-b border-gray-100 py-9">
       <div className="max-w-[1200px] mx-auto px-6">

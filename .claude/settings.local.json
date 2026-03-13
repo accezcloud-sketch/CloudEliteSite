@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(npm install:*)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(mkdir -p \"c:/Users/Sufian Kamran/cloudelite/src/app/[locale]\")",
+      "Bash(mkdir -p \"c:/Users/Sufian Kamran/cloudelite/src/app/[locale]/blog/[slug]\")",
+      "Bash(mkdir -p \"c:/Users/Sufian Kamran/cloudelite/src/app/[locale]/thankyou\")"
     ],
     "additionalDirectories": [
       "c:\\Users\\Sufian Kamran\\cloudelite\\src\\app\\blog"
