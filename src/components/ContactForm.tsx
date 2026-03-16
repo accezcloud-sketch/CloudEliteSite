@@ -30,7 +30,7 @@ export default function ContactForm() {
         <input
           type="hidden"
           name="retURL"
-          value={`https://cloudelite.co/${locale}/thankyou`}
+          value={`https://cloudelite.co/${locale}/thankyou/`}
         />
         <input
           type="hidden"
