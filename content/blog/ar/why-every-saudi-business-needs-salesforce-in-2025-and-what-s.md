@@ -5,8 +5,8 @@ date: "2026-04-09"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/saudi_business_transformation.jpg"
-coverImageCredit: "PLACEHOLDER"
-coverImageCreditUrl: "PLACEHOLDER"
+coverImageCredit: "Photo by Saudi Vision 2030 on Unsplash"
+coverImageCreditUrl: "https://unsplash.com/photos/a-city-skyline-with-tall-buildings-in-the-background-W5512V8yI5A"
 ---
 هل تتسم تفاعلاتك مع العملاء بالتجزئة، وخطوط مبيعاتك غير واضحة، وجهودك التسويقية لا تصل إلى إمكاناتها الكاملة؟ في المناخ الاقتصادي الديناميكي للمملكة العربية السعودية، حيث تسعى الشركات جاهدة لتحقيق المرونة والتركيز على العملاء، يمكن أن تصبح الأنظمة المنفصلة والعمليات اليدوية حواجز لا يمكن التغلب عليها أمام التقدم، مما يؤدي إلى ضياع الفرص وتآكل ولاء العملاء.
 

@@ -5,8 +5,8 @@ date: "2026-06-09"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/salesforce-marketing-cloud-campaign.jpg"
-coverImageCredit: "PLACEHOLDER"
-coverImageCreditUrl: "PLACEHOLDER"
+coverImageCredit: "Salesforce"
+coverImageCreditUrl: "https://www.salesforce.com/news/stories/salesforce-marketing-cloud-powers-innovation/"
 ---
 
 هل تفشل حملاتك التسويقية في تلبية التوقعات؟ هل تجد صعوبة في التواصل مع الجمهور المناسب، وتقديم رسائل مخصصة، وقياس عائد استثماراتك التسويقية الهامة بدقة؟ في سوق اليوم سريع التطور، خاصة ضمن أجندة التحول الرقمي الطموحة لرؤية المملكة 2030، فإن جهود التسويق المجزأة وعدم وجود فهم موحد للعملاء هي طرق مباشرة لضياع الفرص وتقليل القدرة التنافسية.

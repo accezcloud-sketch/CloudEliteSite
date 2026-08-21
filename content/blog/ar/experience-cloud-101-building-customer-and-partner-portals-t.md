@@ -5,8 +5,8 @@ date: "2026-08-17"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/experience-cloud-portals.jpg"
-coverImageCredit: "PLACEHOLDER"
-coverImageCreditUrl: "PLACEHOLDER"
+coverImageCredit: "Photo by Unsplash"
+coverImageCreditUrl: "https://unsplash.com/"
 ---
 
 في المشهد الرقمي سريع الخطى اليوم، لم يعد توفير تجارب سلسة وبديهية لكل من عملائك وشبكتك الموسعة من الشركاء رفاهية - بل هو شرط أساسي لنمو الأعمال والتمييز. هل خيارات الخدمة الذاتية لعملائك محبطة، مما يؤدي إلى زيادة تكاليف الدعم وفقدان الولاء؟ هل يكافح شركاؤك للوصول إلى المعلومات والموارد التي يحتاجونها لتمثيل علامتك التجارية بفعالية ودفع المبيعات؟

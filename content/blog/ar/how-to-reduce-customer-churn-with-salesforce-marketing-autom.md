@@ -6,7 +6,7 @@ author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/reduce-customer-churn-salesforce-marketing-automation.jpg"
 coverImageCredit: "Salesforce Marketing Cloud"
-coverImageCreditUrl: "PLACEHOLDER"
+coverImageCreditUrl: "https://www.salesforce.com/products/marketing-cloud/"
 ---
 
 في سوق اليوم الذي يتسم بالمنافسة الشديدة، تتجاوز تكلفة اكتساب عميل جديد بكثير الاستثمار في الاحتفاظ بعميل حالي. ومع ذلك، تجد العديد من الشركات في المملكة العربية السعودية، على الرغم من أهدافها الطموحة للتحول الرقمي في إطار رؤية 2030، نفسها في معركة ضد قاتل صامت للإيرادات: فقدان العملاء. هذا التآكل المستمر لقاعدة عملائك لا يؤثر فقط على المبيعات الفورية، بل يقوض أيضًا ولاء العلامة التجارية والربحية على المدى الطويل.

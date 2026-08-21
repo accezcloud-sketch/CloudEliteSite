@@ -5,8 +5,8 @@ date: "2026-06-29"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/salesforce-marketing-cloud-2026.jpg"
-coverImageCredit: PLACEHOLDER
-coverImageCreditUrl: PLACEHOLDER
+coverImageCredit: "Artificial Intelligence concept with digital connections"
+coverImageCreditUrl: "https://www.pexels.com/photo/artificial-intelligence-concept-with-digital-connections-7567337/"
 ---
 في المشهد التنافسي الشديد اليوم، تواجه الشركات في جميع أنحاء المملكة العربية السعودية تحدي التواصل مع عملائها على مستوى شخصي حقيقي. الحملات التسويقية العامة لم تعد كافية لجذب الانتباه، ناهيك عن زيادة التحويلات. المستهلك السعودي المميز، المدعوم بالوصول الرقمي والتوقعات المتزايدة التطور، يطالب بالملاءمة، والتوقيت المناسب، وتجربة علامة تجارية سلسة عبر كل نقطة اتصال.
 

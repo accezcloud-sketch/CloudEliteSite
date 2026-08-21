@@ -5,8 +5,8 @@ date: "2026-07-01"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/salesforce-marketing-automation.jpg"
-coverImageCredit: PLACEHOLDER
-coverImageCreditUrl: PLACEHOLDER
+coverImageCredit: "Designed by Freepik"
+coverImageCreditUrl: "https://www.freepik.com/"
 ---
 في المشهد التجاري الديناميكي للمملكة العربية السعودية، قد يبدو توسيع نطاق جهودك التسويقية للوصول إلى جمهور أوسع وزيادة المشاركة بمثابة معركة شاقة. هل حملاتك مخططة بدقة، لكنها تكافح لتحقيق السرعة المطلوبة؟ تجد العديد من الشركات نفسها غارقة في العمليات اليدوية، وفجوات البيانات، والتعقيد الهائل لإدارة نقاط اتصال متعددة، مما يؤدي إلى فرص ضائعة ونمو راكد.
 

@@ -5,8 +5,8 @@ date: "2026-06-13"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/einstein-ai-prediction.jpg"
-coverImageCredit: PLACEHOLDER
-coverImageCreditUrl: PLACEHOLDER
+coverImageCredit: "AI-generated image of a futuristic data analysis interface with glowing customer icons"
+coverImageCreditUrl: "https://www.example.com/credit/ai-generated"
 ---
 في السوق السعودي الذي يتسم بالمنافسة الشديدة اليوم، غالبًا ما يشبه السعي الدؤوب وراء أعمال جديدة التنقل في متاهة معقدة. تستثمر الشركات بكثافة في التحول الرقمي، بما يتماشى مع الأهداف الطموحة لرؤية 2030، ومع ذلك لا يزال الكثيرون يكافحون لتحديد أولويات عملائهم المحتملين الواعدين بشكل مستمر. السؤال لا يتعلق فقط بإيجاد العملاء، بل بإيجاد العملاء *المناسبين* في *الوقت المناسب*، مما يزيد من قيمة كل تفاعل مبيعات ومورد.
 

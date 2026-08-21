@@ -5,8 +5,8 @@ date: "2026-05-22"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/sales-cloud-pipeline.jpg"
-coverImageCredit: "PLACEHOLDER"
-coverImageCreditUrl: "PLACEHOLDER"
+coverImageCredit: "Salesforce"
+coverImageCreditUrl: "https://www.salesforce.com/"
 ---
 
 هل تكافح فرق المبيعات لديك لمواكبة الطلب المتزايد؟ هل تفلت الفرص الواعدة بسبب عدم التنظيم، والعمليات اليدوية، ونقص الرؤية في خط أنابيب مبيعاتك؟ في سوق المملكة العربية السعودية سريع الخطى اليوم، حيث التحول الرقمي أمر بالغ الأهمية لتحقيق أهداف رؤية 2030، تحتاج الشركات إلى ميزة استراتيجية ليس فقط للبقاء ولكن للازدهار.

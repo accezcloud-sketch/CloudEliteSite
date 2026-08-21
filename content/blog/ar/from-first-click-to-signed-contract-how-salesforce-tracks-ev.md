@@ -5,8 +5,8 @@ date: "2026-06-03"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/salesforce-tracking.jpg"
-coverImageCredit: PLACEHOLDER
-coverImageCreditUrl: PLACEHOLDER
+coverImageCredit: "Salesforce logo on a city skyline"
+coverImageCreditUrl: "https://unsplash.com/photos/salesforce-logo-on-city-skyline-during-daytime-4JcR5h5tCmk"
 ---
 في المشهد التنافسي الحالي، تدرك الشركات في المملكة العربية السعودية بشكل متزايد الحاجة الملحة لرؤية موحدة وشفافة لتفاعلاتها مع العملاء. هل تفوّت فرق المبيعات لديك فرصًا باستمرار بسبب المعلومات المنعزلة أو نقص الرؤية في تفاعل العملاء المحتملين؟ هل تكافح لتحديد مكان توقف الصفقات أو ما يؤثر حقًا على قرار العميل بالتحول؟
 

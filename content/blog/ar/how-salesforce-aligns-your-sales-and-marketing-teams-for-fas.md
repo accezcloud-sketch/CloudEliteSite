@@ -5,8 +5,8 @@ date: "2026-07-26"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/salesforce-alignment-growth.jpg"
-coverImageCredit: "PLACEHOLDER"
-coverImageCreditUrl: "PLACEHOLDER"
+coverImageCredit: "Photo by Mikael Blomkvist on Pexels"
+coverImageCreditUrl: "https://www.pexels.com/photo/people-working-on-laptops-6426575/"
 ---
 هل تعاني فرق المبيعات لديك من تحويل العملاء المحتملين الذين ينشئهم قسم التسويق، أم أن قسم التسويق غير متأكد من جودة العملاء المحتملين الذين يسلمهم ومتابعتهم؟ هذا الانفصال الدائم هو عقبة كبيرة للعديد من المؤسسات، مما يؤدي إلى ضياع الفرص، وهدر الموارد، وتوقف نمو الإيرادات، وهو تحدٍ تشعر به بشكل خاص الشركات الطموحة في المملكة العربية السعودية التي تهدف إلى الاستحواذ على حصة سوقية في مشهد رقمي سريع التطور.
 

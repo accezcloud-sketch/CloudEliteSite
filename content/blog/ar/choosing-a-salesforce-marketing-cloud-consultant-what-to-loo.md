@@ -5,8 +5,8 @@ date: "2026-08-03"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/marketing-cloud-consultant-hero.jpg"
-coverImageCredit: PLACEHOLDER
-coverImageCreditUrl: PLACEHOLDER
+coverImageCredit: "Unsplash"
+coverImageCreditUrl: "https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-board-with-charts-on-it-9kC9e5J0S34"
 ---
 هل تكافح للتواصل مع جمهورك المستهدف بطريقة هادفة وشخصية؟ في سوق المملكة العربية السعودية شديد التنافسية اليوم، فإن نهج التسويق الذي يناسب الجميع لن يكفي. تدرك الشركات في جميع أنحاء المملكة، من الشركات الناشئة المزدهرة في الرياض إلى الشركات الراسخة في جدة، الحاجة الملحة لتقديم تجارب عملاء ذات صلة وفي الوقت المناسب وجذابة، ومع ذلك غالباً ما تجد نفسها مثقلة بالمنصات المعقدة والاستراتيجيات المجزأة.
 

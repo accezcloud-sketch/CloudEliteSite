@@ -5,8 +5,8 @@ date: "2026-05-18"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/salesforce-migration-cover.jpg"
-coverImageCredit: PLACEHOLDER
-coverImageCreditUrl: PLACEHOLDER
+coverImageCredit: "CloudElite"
+coverImageCreditUrl: "https://cloudelite.sa"
 ---
 
 هل تعاني عمليات عملك الحالية من أنظمة معقدة وقديمة؟ هل تعيق الحلول اليدوية وفجوات البيانات إنتاجية فريقك وتحجب الرؤى الهامة؟ في سوق المملكة العربية السعودية سريع الخطى اليوم، حيث الأولوية القصوى هي المرونة والتركيز على العملاء، يمكن لهذه التحديات أن تعيق الابتكار والميزة التنافسية بشكل كبير.

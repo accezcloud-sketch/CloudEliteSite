@@ -1,6 +1,6 @@
 ---
-title: Omni-Channel Support: How Service Cloud Unifies Every Customer Conversation
-excerpt: Discover how Salesforce Service Cloud, expertly implemented by CloudElite, transforms fragmented customer interactions into a seamless, unified experience.
+title: "Omni-Channel Support: How Service Cloud Unifies Every Customer Conversation"
+excerpt: "Discover how Salesforce Service Cloud, expertly implemented by CloudElite, transforms fragmented customer interactions into a seamless, unified experience."
 date: "2026-08-13"
 author: "CloudElite Team"
 category: "Consulting"

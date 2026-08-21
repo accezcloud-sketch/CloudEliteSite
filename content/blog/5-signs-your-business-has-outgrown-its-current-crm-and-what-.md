@@ -1,6 +1,6 @@
 ---
-title: 5 Signs Your Business Has Outgrown Its Current CRM — And What to Do Next
-excerpt: Discover the tell-tale signs that your current CRM is holding your business back and learn how to navigate the upgrade process with expert guidance.
+title: "5 Signs Your Business Has Outgrown Its Current CRM — And What to Do Next"
+excerpt: "Discover the tell-tale signs that your current CRM is holding your business back and learn how to navigate the upgrade process with expert guidance."
 date: "2026-06-05"
 author: "CloudElite Team"
 category: "Consulting"

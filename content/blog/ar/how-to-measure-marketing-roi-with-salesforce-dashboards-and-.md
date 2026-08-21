@@ -5,8 +5,8 @@ date: "2026-07-14"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/salesforce-roi.jpg"
-coverImageCredit: "PLACEHOLDER"
-coverImageCreditUrl: "PLACEHOLDER"
+coverImageCredit: "Photo by rawpixel.com on Unsplash"
+coverImageCreditUrl: "https://unsplash.com/photos/a-person-is-holding-a-laptop-keyboard-in-their-hands-4g-61pE40M"
 ---
 في مشهد الأعمال التنافسي اليوم، وخاصة ضمن السوق السعودي الديناميكي، يُعد إظهار التأثير الملموس للمبادرات التسويقية أمرًا بالغ الأهمية. تستثمر الشركات موارد كبيرة في الحملات، ومع ذلك غالبًا ما تواجه صعوبة في قياس العائد الدقيق لهذه الاستثمارات. يمكن أن يؤدي الافتقار إلى الوضوح هذا إلى تخصيص ميزانية خاطئ، وفقدان الفرص، وعدم يقين عام بشأن المساهمة الحقيقية للتسويق في النتيجة النهائية.
 

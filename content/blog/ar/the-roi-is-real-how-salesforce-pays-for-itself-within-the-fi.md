@@ -5,8 +5,8 @@ date: "2026-04-20"
 author: "فريق كلاود إيليت"
 category: "استشارات"
 coverImage: "/images/blog/salesforce-roi.jpg"
-coverImageCredit: "PLACEHOLDER"
-coverImageCreditUrl: "PLACEHOLDER"
+coverImageCredit: "Photo by Rawpixel.com"
+coverImageCreditUrl: "https://www.pexels.com/photo/business-people-shaking-hands-while-standing-in-office-159984/"
 ---
 هل تعاني من بيانات عملاء غير مترابطة، وعمليات مبيعات غير فعالة، أو فريق خدمة يكافح لمواكبة الاستفسارات؟ في سوق المملكة العربية السعودية التنافسي اليوم، هذه أوجه القصور التشغيلية ليست مجرد مصدر إحباط؛ بل إنها تكلف عملك بشكل فعال إيرادات قيمة وتعيق قدرتك على النمو والابتكار بما يتماشى مع الأهداف الطموحة لرؤية 2030.
 
