@@ -1,6 +1,6 @@
 ---
-title: Connecting Salesforce to Your ERP: What a Smooth Integration Looks Like
-excerpt: Unlock the full potential of your business operations by seamlessly integrating Salesforce with your ERP system, transforming data silos into a unified engine for growth.
+title: "Connecting Salesforce to Your ERP: What a Smooth Integration Looks Like"
+excerpt: "Unlock the full potential of your business operations by seamlessly integrating Salesforce with your ERP system, transforming data silos into a unified engine for growth."
 date: "2026-08-27"
 author: "CloudElite Team"
 category: "Consulting"

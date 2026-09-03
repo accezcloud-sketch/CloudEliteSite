@@ -1,6 +1,6 @@
 ---
-title: Beyond the Shelf: How Custom Salesforce Apps Revolutionize Business in Saudi Arabia
-excerpt: Discover how bespoke Salesforce solutions can tackle unique business challenges that out-of-the-box software simply cannot address, driving digital transformation in Saudi Arabia.
+title: "Beyond the Shelf: How Custom Salesforce Apps Revolutionize Business in Saudi Arabia"
+excerpt: "Discover how bespoke Salesforce solutions can tackle unique business challenges that out-of-the-box software simply cannot address, driving digital transformation in Saudi Arabia."
 date: "2026-08-25"
 author: "CloudElite Team"
 category: "Consulting"

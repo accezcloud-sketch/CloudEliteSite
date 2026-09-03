@@ -5,6 +5,51 @@ import type { Locale } from "./i18n";
 
 const BLOG_DIR = path.join(process.cwd(), "content/blog");
 
+const FRONTMATTER_RE = /^---\r?\n([\s\S]*?)\r?\n---/;
+
+/**
+ * The blog posts are produced by an external generator that sometimes emits
+ * unquoted YAML scalars. An unquoted value containing ": " makes js-yaml throw
+ * ("incomplete explicit mapping pair"), which previously failed the whole
+ * production build. Quote any bare scalar so those files still parse.
+ */
+function quoteBareScalars(raw: string): string {
+  return raw.replace(FRONTMATTER_RE, (_match, body: string) => {
+    const fixed = body
+      .split(/\r?\n/)
+      .map((line) => {
+        const kv = line.match(/^([A-Za-z0-9_-]+):[ \t]+(.*)$/);
+        if (!kv) return line;
+        const [, key, rawValue] = kv;
+        const value = rawValue.trim();
+        // Leave empty values and anything already quoted or structural alone.
+        if (!value || /^["'[{|>&*!#]/.test(value)) return line;
+        const escaped = value.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
+        return `${key}: "${escaped}"`;
+      })
+      .join("\n");
+    return `---\n${fixed}\n---`;
+  });
+}
+
+function parsePost(raw: string, source: string) {
+  try {
+    return matter(raw);
+  } catch {
+    try {
+      const parsed = matter(quoteBareScalars(raw));
+      console.warn(`[blog] Repaired malformed frontmatter in ${source}`);
+      return parsed;
+    } catch (err) {
+      console.error(
+        `[blog] Skipping ${source} - unreadable frontmatter:`,
+        err instanceof Error ? err.message : err
+      );
+      return null;
+    }
+  }
+}
+
 export interface BlogPost {
   slug: string;
   title: string;
@@ -27,10 +72,12 @@ export function getAllPosts(locale: Locale = "en"): BlogPost[] {
 
   const files = fs.readdirSync(dir).filter((f) => f.endsWith(".md"));
 
-  const posts = files.map((filename) => {
+  const posts = files.flatMap((filename) => {
     const slug = filename.replace(/\.md$/, "");
     const raw = fs.readFileSync(path.join(dir, filename), "utf-8");
-    const { data, content } = matter(raw);
+    const parsed = parsePost(raw, `${locale}/${filename}`);
+    if (!parsed) return [];
+    const { data, content } = parsed;
 
     return {
       slug,
@@ -58,7 +105,9 @@ export function getPostBySlug(
   if (!fs.existsSync(filePath)) return undefined;
 
   const raw = fs.readFileSync(filePath, "utf-8");
-  const { data, content } = matter(raw);
+  const parsed = parsePost(raw, `${locale}/${slug}.md`);
+  if (!parsed) return undefined;
+  const { data, content } = parsed;
 
   return {
     slug,
