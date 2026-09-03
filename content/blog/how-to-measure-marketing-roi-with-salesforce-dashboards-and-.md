@@ -4,7 +4,7 @@ excerpt: "Transform your marketing spend into measurable business growth by leve
 date: "2026-07-14"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-roi.jpg"
+coverImage: ""
 coverImageCredit: "Photo by rawpixel.com on Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/a-person-is-holding-a-laptop-keyboard-in-their-hands-4g-61pE40M"
 ---

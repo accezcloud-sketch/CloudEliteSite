@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لتوحيد جهود المبيعات وا
 date: "2026-07-26"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-alignment-growth.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Mikael Blomkvist on Pexels"
 coverImageCreditUrl: "https://www.pexels.com/photo/people-working-on-laptops-6426575/"
 ---

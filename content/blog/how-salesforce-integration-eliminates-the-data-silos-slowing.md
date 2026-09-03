@@ -4,7 +4,7 @@ excerpt: "Discover how integrated Salesforce solutions break down internal barri
 date: "2026-05-20"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/data_silos_integration.png"
+coverImage: "/images/blog/how-salesforce-integration-eliminates-the-data-silos-slowing.jpg"
 coverImageCredit: "Photo by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/photo/data-analysis-3760063/"
 ---

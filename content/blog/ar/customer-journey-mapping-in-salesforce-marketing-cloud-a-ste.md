@@ -4,7 +4,7 @@ excerpt: "أطلق العنان لتفاعل لا مثيل له مع العمل�
 date: "2026-07-08"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/customer-journey-mapping.jpg"
+coverImage: ""
 coverImageCredit: "Unsplash"
 coverImageCreditUrl: "https://unsplash.com/"
 ---

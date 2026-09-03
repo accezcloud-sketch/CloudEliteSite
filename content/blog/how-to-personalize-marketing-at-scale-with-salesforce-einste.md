@@ -4,7 +4,7 @@ excerpt: "Discover how Salesforce Einstein AI empowers businesses in Saudi Arabi
 date: "2026-07-10"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/einstein-ai-personalization.jpg"
+coverImage: ""
 coverImageCredit: "Shutterstock"
 coverImageCreditUrl: "https://www.shutterstock.com/image-photo/ai-artificial-intelligence-brain-digital-network-2111760350"
 ---

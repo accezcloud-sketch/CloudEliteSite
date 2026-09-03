@@ -4,7 +4,7 @@ excerpt: "Unlock the full potential of your business operations by seamlessly in
 date: "2026-08-27"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/erp-salesforce-integration.jpg"
+coverImage: ""
 coverImageCredit: "Freepik"
 coverImageCreditUrl: "https://www.freepik.com/free-photo/businessman-using-laptop-while-working-office_13201590.htm"
 ---

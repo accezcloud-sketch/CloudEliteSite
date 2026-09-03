@@ -4,7 +4,7 @@ excerpt: "حوّل إنفاقك التسويقي إلى نمو تجاري قاب
 date: "2026-07-14"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-roi.jpg"
+coverImage: ""
 coverImageCredit: "Photo by rawpixel.com on Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/a-person-is-holding-a-laptop-keyboard-in-their-hands-4g-61pE40M"
 ---

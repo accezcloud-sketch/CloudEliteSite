@@ -4,7 +4,7 @@ excerpt: "إذا كان فريق المبيعات الخاص بك يكافح ل�
 date: "2026-05-04"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-competitor-advantage.jpg"
+coverImage: ""
 coverImageCredit: "Stock image of business people collaborating"
 coverImageCreditUrl: "https://www.pexels.com/photo/group-of-people-walking-indoors-1181484/"
 ---

@@ -4,7 +4,7 @@ excerpt: "Unlock unparalleled customer engagement and drive sustainable growth i
 date: "2026-06-29"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-marketing-cloud-2026.jpg"
+coverImage: "/images/blog/salesforce-marketing-cloud-a-complete-guide-for-2026.jpg"
 coverImageCredit: "Artificial Intelligence concept with digital connections"
 coverImageCreditUrl: "https://www.pexels.com/photo/artificial-intelligence-concept-with-digital-connections-7567337/"
 ---

@@ -4,7 +4,7 @@ excerpt: "Navigating the complex landscape of B2B marketing automation can be da
 date: "2026-07-18"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/pardot-vs-marketing-cloud.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce"
 coverImageCreditUrl: "https://www.salesforce.com/"
 ---

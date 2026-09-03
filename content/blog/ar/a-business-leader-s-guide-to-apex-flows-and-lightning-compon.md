@@ -4,7 +4,7 @@ excerpt: "أطلق العنان للإمكانات الكاملة لاستثما
 date: "2026-08-23"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-automation-saudi.jpg"
+coverImage: ""
 coverImageCredit: "CloudElite Stock Photo"
 coverImageCreditUrl: "https://www.cloudelite.com/images/stock"
 ---

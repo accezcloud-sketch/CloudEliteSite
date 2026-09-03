@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف تحول Salesforce Service Cloud، من خلال ا
 date: "2026-08-13"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/omni-channel-support.jpg"
+coverImage: "/images/blog/omni-channel-support-how-service-cloud-unifies-every-custome.jpg"
 coverImageCredit: "AI Generated Image"
 coverImageCreditUrl: ""
 ---

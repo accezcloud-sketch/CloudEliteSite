@@ -4,7 +4,7 @@ excerpt: "أطلق العنان للإمكانيات الكاملة لفريقك
 date: "2026-05-18"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-adoption.jpg"
+coverImage: ""
 coverImageCredit: "Designed by Freepik"
 coverImageCreditUrl: "https://www.freepik.com/free-vector/flat-design-team-working-illustration_12943773.htm#page=2&query=teamwork+technology&position=40&from_view=search&track=ais"
 ---

@@ -4,7 +4,7 @@ excerpt: "Unlock the strategic potential of your Salesforce data by transforming
 date: "2026-09-02"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/crm-analytics-executive-insights.jpg"
+coverImage: "/images/blog/crm-analytics-turning-salesforce-data-into-executive-ready-i.jpg"
 coverImageCredit: "Image by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/"
 ---

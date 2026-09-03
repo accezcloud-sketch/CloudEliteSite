@@ -4,7 +4,7 @@ excerpt: "Discover how strategic Salesforce implementation can deliver tangible,
 date: "2026-04-20"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-roi.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Rawpixel.com"
 coverImageCreditUrl: "https://www.pexels.com/photo/business-people-shaking-hands-while-standing-in-office-159984/"
 ---

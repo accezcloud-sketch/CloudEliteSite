@@ -4,7 +4,7 @@ excerpt: "Unlock explosive campaign growth and optimize your marketing spend wit
 date: "2026-07-01"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-marketing-automation.jpg"
+coverImage: ""
 coverImageCredit: "Designed by Freepik"
 coverImageCreditUrl: "https://www.freepik.com/"
 ---

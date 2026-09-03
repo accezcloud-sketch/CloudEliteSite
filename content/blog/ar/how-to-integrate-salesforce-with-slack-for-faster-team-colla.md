@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لدمج Salesforce مع Slack أن يُح�
 date: "2026-08-31"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-slack-integration.jpg"
+coverImage: ""
 coverImageCredit: "Generic Placeholder Image"
 coverImageCreditUrl: "https://example.com/placeholder"
 ---

@@ -4,7 +4,7 @@ excerpt: "Unlock direct customer engagement by integrating WhatsApp marketing wi
 date: "2026-07-12"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/whatsapp-salesforce.jpg"
+coverImage: ""
 coverImageCredit: "Image by Pexels user Fauxels"
 coverImageCreditUrl: "https://www.pexels.com/photo/hands-holding-a-smartphone-3184418/"
 ---

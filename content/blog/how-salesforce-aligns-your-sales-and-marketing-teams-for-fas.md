@@ -4,7 +4,7 @@ excerpt: "Discover how unifying your sales and marketing efforts with Salesforce
 date: "2026-07-26"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-alignment-growth.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Mikael Blomkvist on Pexels"
 coverImageCreditUrl: "https://www.pexels.com/photo/people-working-on-laptops-6426575/"
 ---

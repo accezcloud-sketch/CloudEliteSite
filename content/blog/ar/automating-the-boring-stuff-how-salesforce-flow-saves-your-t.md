@@ -4,7 +4,7 @@ excerpt: "حقق كفاءة غير مسبوقة ومكّن فريقك من خل�
 date: "2026-06-11"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/automating-boring-stuff.jpg"
+coverImage: ""
 coverImageCredit: "Man typing on laptop with charts and graphs on screen"
 coverImageCreditUrl: "https://www.pexels.com/photo/man-typing-on-a-laptop-590019/"
 ---

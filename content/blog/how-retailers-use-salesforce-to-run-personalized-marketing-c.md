@@ -4,7 +4,7 @@ excerpt: "Discover how retailers in Saudi Arabia are leveraging Salesforce to cr
 date: "2026-08-01"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/retail-personalized-marketing.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/photo/woman-in-red-dress-holding-a-red-rose-3768033/"
 ---

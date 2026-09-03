@@ -4,7 +4,7 @@ excerpt: "Navigate the evolving digital landscape of Saudi Arabia by understandi
 date: "2026-07-07"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-vs-traditional-email.jpg"
+coverImage: ""
 coverImageCredit: "Business handshake on a digital background"
 coverImageCreditUrl: "https://unsplash.com/photos/a-business-handshake-on-a-digital-background-6d61_s3FzG8"
 ---

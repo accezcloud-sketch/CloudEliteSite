@@ -4,7 +4,7 @@ excerpt: "Discover how Salesforce Service Cloud can transform your customer supp
 date: "2026-08-09"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/service-cloud-growth-engine.jpg"
+coverImage: "/images/blog/service-cloud-explained-how-to-turn-customer-support-into-a-.jpg"
 coverImageCredit: "Abstract image representing digital transformation and customer engagement"
 coverImageCreditUrl: "https://unsplash.com/photos/abstract-digital-art-illustration-K4j6eT22gWc"
 ---

@@ -4,7 +4,7 @@ excerpt: "حقق نموًا وكفاءة لا مثيل لهما من خلال ا
 date: "2026-05-18"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-migration-cover.jpg"
+coverImage: ""
 coverImageCredit: "CloudElite"
 coverImageCreditUrl: "https://cloudelite.sa"
 ---

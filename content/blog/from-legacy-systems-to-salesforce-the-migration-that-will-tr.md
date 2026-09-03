@@ -4,7 +4,7 @@ excerpt: "Unlock unparalleled growth and efficiency by migrating from outdated l
 date: "2026-05-18"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-migration-cover.jpg"
+coverImage: ""
 coverImageCredit: "CloudElite"
 coverImageCreditUrl: "https://cloudelite.sa"
 ---

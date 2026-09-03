@@ -4,7 +4,7 @@ excerpt: "Discover how integrating Salesforce with Slack can revolutionize team 
 date: "2026-08-31"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-slack-integration.jpg"
+coverImage: ""
 coverImageCredit: "Generic Placeholder Image"
 coverImageCreditUrl: "https://example.com/placeholder"
 ---

@@ -4,7 +4,7 @@ excerpt: "Transform your marketing efforts from guesswork to precision with a ro
 date: "2026-08-07"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/data-driven-marketing-salesforce.jpg"
+coverImage: ""
 coverImageCredit: "AI Generated Image"
 coverImageCreditUrl: "https://example.com/credit"
 ---

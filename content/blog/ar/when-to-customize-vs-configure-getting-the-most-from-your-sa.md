@@ -4,7 +4,7 @@ excerpt: "أطلق العنان للإمكانات الحقيقية لنظام �
 date: "2026-08-21"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/customize-vs-configure.jpg"
+coverImage: ""
 coverImageCredit: "A blend of digital code and traditional Arabian architecture"
 coverImageCreditUrl: "https://www.example.com/images/attribution"
 ---

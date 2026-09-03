@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يستفيد تجار التجزئة في الممل
 date: "2026-08-01"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/retail-personalized-marketing.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/photo/woman-in-red-dress-holding-a-red-rose-3768033/"
 ---

@@ -4,7 +4,7 @@ excerpt: "If your business is still relying on spreadsheets for customer managem
 date: "2026-05-30"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/spreadsheet-costing.jpg"
+coverImage: "/images/blog/still-managing-customers-on-spreadsheets-here-s-why-that-s-c.jpg"
 coverImageCredit: "Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/a-group-of-people-sitting-around-a-table-with-laptops-and-papers-f3k3I5pXj4E"
 ---

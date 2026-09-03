@@ -4,7 +4,7 @@ excerpt: "اكتشف رحلة Salesforce Marketing Cloud بثقة من خلال 
 date: "2026-07-30"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/sfmc_roadmap.jpg"
+coverImage: "/images/blog/salesforce-marketing-cloud-implementation-a-step-by-step-roa.jpg"
 coverImageCredit: "Abstract digital background with connecting lines and nodes"
 coverImageCreditUrl: "https://unsplash.com/photos/abstract-digital-background-with-connecting-lines-and-nodes-Jk27t8-k7rA"
 ---

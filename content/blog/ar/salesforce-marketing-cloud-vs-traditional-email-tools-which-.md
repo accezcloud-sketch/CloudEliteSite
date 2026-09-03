@@ -4,7 +4,7 @@ excerpt: "تنقل في المشهد الرقمي المتطور في الممل
 date: "2026-07-07"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-vs-traditional-email.jpg"
+coverImage: ""
 coverImageCredit: "Business handshake on a digital background"
 coverImageCreditUrl: "https://unsplash.com/photos/a-business-handshake-on-a-digital-background-6d61_s3FzG8"
 ---

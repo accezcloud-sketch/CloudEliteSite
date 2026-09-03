@@ -4,7 +4,7 @@ excerpt: "اكتشف كيفية تحويل خط أنابيب العملاء ال
 date: "2026-07-24"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/lead-nurturing-salesforce-journeys.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Katerina Holmes"
 coverImageCreditUrl: "https://unsplash.com/photos/a-hand-is-holding-a-pen-over-a-piece-of-paper-cM1tH9uH85w"
 ---

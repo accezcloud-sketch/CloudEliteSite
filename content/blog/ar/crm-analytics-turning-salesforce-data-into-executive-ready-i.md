@@ -4,7 +4,7 @@ excerpt: "أطلق العنان للإمكانيات الاستراتيجية ل
 date: "2026-09-02"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/crm-analytics-executive-insights.jpg"
+coverImage: "/images/blog/crm-analytics-turning-salesforce-data-into-executive-ready-i.jpg"
 coverImageCredit: "Image by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/"
 ---

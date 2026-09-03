@@ -4,7 +4,7 @@ excerpt: "أطلق نموًا هائلاً لحملاتك وحسّن إنفاق�
 date: "2026-07-01"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-marketing-automation.jpg"
+coverImage: ""
 coverImageCredit: "Designed by Freepik"
 coverImageCreditUrl: "https://www.freepik.com/"
 ---

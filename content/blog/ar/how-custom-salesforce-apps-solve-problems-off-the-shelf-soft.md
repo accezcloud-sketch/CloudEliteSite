@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لحلول Salesforce المصممة خصي
 date: "2026-08-25"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/custom-salesforce-apps.jpg"
+coverImage: ""
 coverImageCredit: "AI Generated Image"
 coverImageCreditUrl: "https://example.com/ai-images"
 ---

@@ -4,7 +4,7 @@ excerpt: "Empower your customers with self-service portals to reduce support bur
 date: "2026-08-15"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/self-service-portals-lead.jpg"
+coverImage: ""
 coverImageCredit: "Stock photo by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/"
 ---

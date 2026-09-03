@@ -4,7 +4,7 @@ excerpt: "In today's hyper-connected business landscape, safeguarding sensitive 
 date: "2026-06-07"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/placeholder-security.jpg"
+coverImage: ""
 coverImageCredit: "Freepik"
 coverImageCreditUrl: "https://www.freepik.com"
 ---

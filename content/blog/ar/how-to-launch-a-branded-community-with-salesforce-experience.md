@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لـ Salesforce Experience Cloud تحويل
 date: "2026-08-19"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-experience-cloud-community.jpg"
+coverImage: ""
 coverImageCredit: "Image by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/"
 ---

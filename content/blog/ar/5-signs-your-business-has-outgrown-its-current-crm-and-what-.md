@@ -4,7 +4,7 @@ excerpt: "اكتشف العلامات الواضحة التي يعيق بها ن
 date: "2026-06-05"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/crm-growth-signs.jpg"
+coverImage: ""
 coverImageCredit: "Photo by [Name] on [Unsplash/Pexels]"
 coverImageCreditUrl: "https://unsplash.com/photos/[ID]"
 ---

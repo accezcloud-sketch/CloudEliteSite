@@ -4,7 +4,7 @@ excerpt: "Discover how integrating Salesforce into your marketing strategy can u
 date: "2026-06-09"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-marketing-cloud-campaign.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce"
 coverImageCreditUrl: "https://www.salesforce.com/news/stories/salesforce-marketing-cloud-powers-innovation/"
 ---

@@ -4,7 +4,7 @@ excerpt: "In the rapidly evolving Saudi business landscape, leveraging a robust 
 date: "2026-04-09"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/saudi_business_transformation.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Saudi Vision 2030 on Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/a-city-skyline-with-tall-buildings-in-the-background-W5512V8yI5A"
 ---

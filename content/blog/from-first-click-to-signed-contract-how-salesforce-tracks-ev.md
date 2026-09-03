@@ -4,7 +4,7 @@ excerpt: "Understand how Salesforce meticulously records every interaction, turn
 date: "2026-06-03"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-tracking.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce logo on a city skyline"
 coverImageCreditUrl: "https://unsplash.com/photos/salesforce-logo-on-city-skyline-during-daytime-4JcR5h5tCmk"
 ---

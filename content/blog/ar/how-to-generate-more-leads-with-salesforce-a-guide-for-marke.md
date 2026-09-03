@@ -4,7 +4,7 @@ excerpt: "أطلق العنان لقوة Salesforce لتحويل جهودك ال
 date: "2026-07-05"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-lead-generation-saudi.jpg"
+coverImage: ""
 coverImageCredit: "Image by Freepik"
 coverImageCreditUrl: "https://www.freepik.com"
 ---

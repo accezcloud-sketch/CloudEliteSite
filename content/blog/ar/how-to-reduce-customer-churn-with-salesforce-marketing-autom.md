@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لأتمتة تسويق Salesforce الاس
 date: "2026-07-20"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/reduce-customer-churn-salesforce-marketing-automation.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce Marketing Cloud"
 coverImageCreditUrl: "https://www.salesforce.com/products/marketing-cloud/"
 ---

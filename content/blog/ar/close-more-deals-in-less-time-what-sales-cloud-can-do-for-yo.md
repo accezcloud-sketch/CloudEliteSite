@@ -4,7 +4,7 @@ excerpt: "أطلق العنان لكفاءة مبيعات غير مسبوقة و
 date: "2026-05-22"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/sales-cloud-pipeline.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce"
 coverImageCreditUrl: "https://www.salesforce.com/"
 ---

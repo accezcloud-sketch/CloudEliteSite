@@ -4,7 +4,7 @@ excerpt: "Discover how Salesforce Experience Cloud can transform your customer e
 date: "2026-08-19"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-experience-cloud-community.jpg"
+coverImage: ""
 coverImageCredit: "Image by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/"
 ---

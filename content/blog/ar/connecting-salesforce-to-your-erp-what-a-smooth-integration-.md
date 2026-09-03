@@ -4,7 +4,7 @@ excerpt: "أطلق العنان للإمكانات الكاملة لعمليات
 date: "2026-08-27"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/erp-salesforce-integration.jpg"
+coverImage: ""
 coverImageCredit: "Freepik"
 coverImageCreditUrl: "https://www.freepik.com/free-photo/businessman-using-laptop-while-working-office_13201590.htm"
 ---

@@ -4,7 +4,7 @@ excerpt: "Unlock unprecedented sales efficiency and accelerate deal closures wit
 date: "2026-05-22"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/sales-cloud-pipeline.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce"
 coverImageCreditUrl: "https://www.salesforce.com/"
 ---

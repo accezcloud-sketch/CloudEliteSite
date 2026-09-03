@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لمنصة Salesforce Service Cloud تحو�
 date: "2026-08-09"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/service-cloud-growth-engine.jpg"
+coverImage: "/images/blog/service-cloud-explained-how-to-turn-customer-support-into-a-.jpg"
 coverImageCredit: "Abstract image representing digital transformation and customer engagement"
 coverImageCreditUrl: "https://unsplash.com/photos/abstract-digital-art-illustration-K4j6eT22gWc"
 ---

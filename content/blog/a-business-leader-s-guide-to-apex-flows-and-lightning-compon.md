@@ -4,7 +4,7 @@ excerpt: "Unlock the full potential of your Salesforce investment with a strateg
 date: "2026-08-23"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-automation-saudi.jpg"
+coverImage: ""
 coverImageCredit: "CloudElite Stock Photo"
 coverImageCreditUrl: "https://www.cloudelite.com/images/stock"
 ---

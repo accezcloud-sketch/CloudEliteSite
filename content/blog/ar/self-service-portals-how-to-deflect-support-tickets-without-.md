@@ -4,7 +4,7 @@ excerpt: "قم بتمكين عملائك من خلال بوابات الخدمة
 date: "2026-08-15"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/self-service-portals-lead.jpg"
+coverImage: ""
 coverImageCredit: "Stock photo by Pexels"
 coverImageCreditUrl: "https://www.pexels.com/"
 ---

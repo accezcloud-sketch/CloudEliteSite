@@ -4,7 +4,7 @@ excerpt: "Unlock unprecedented efficiency and empower your team by automating re
 date: "2026-06-11"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/automating-boring-stuff.jpg"
+coverImage: ""
 coverImageCredit: "Man typing on laptop with charts and graphs on screen"
 coverImageCreditUrl: "https://www.pexels.com/photo/man-typing-on-a-laptop-590019/"
 ---

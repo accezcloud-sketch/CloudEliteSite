@@ -4,7 +4,7 @@ excerpt: "Discover how Salesforce Einstein AI empowers businesses to proactively
 date: "2026-06-13"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/einstein-ai-prediction.jpg"
+coverImage: ""
 coverImageCredit: "AI-generated image of a futuristic data analysis interface with glowing customer icons"
 coverImageCreditUrl: "https://www.example.com/credit/ai-generated"
 ---

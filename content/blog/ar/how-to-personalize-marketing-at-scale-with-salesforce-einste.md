@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف تُمكّن Salesforce Einstein AI الشركات �
 date: "2026-07-10"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/einstein-ai-personalization.jpg"
+coverImage: ""
 coverImageCredit: "Shutterstock"
 coverImageCreditUrl: "https://www.shutterstock.com/image-photo/ai-artificial-intelligence-brain-digital-network-2111760350"
 ---

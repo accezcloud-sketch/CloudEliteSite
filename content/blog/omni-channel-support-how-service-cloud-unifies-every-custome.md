@@ -4,7 +4,7 @@ excerpt: "Discover how Salesforce Service Cloud, expertly implemented by CloudEl
 date: "2026-08-13"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/omni-channel-support.jpg"
+coverImage: "/images/blog/omni-channel-support-how-service-cloud-unifies-every-custome.jpg"
 coverImageCredit: "AI Generated Image"
 coverImageCreditUrl: ""
 ---

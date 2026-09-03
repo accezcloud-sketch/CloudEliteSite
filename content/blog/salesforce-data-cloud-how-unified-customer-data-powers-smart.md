@@ -4,7 +4,7 @@ excerpt: "Unlock unprecedented marketing effectiveness by unifying your customer
 date: "2026-07-22"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/data-cloud-hero.jpg"
+coverImage: "/images/blog/salesforce-data-cloud-how-unified-customer-data-powers-smart.jpg"
 coverImageCredit: "Salesforce"
 coverImageCreditUrl: "https://www.salesforce.com"
 ---

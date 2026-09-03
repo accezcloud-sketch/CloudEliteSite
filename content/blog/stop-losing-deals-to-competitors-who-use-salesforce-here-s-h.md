@@ -4,7 +4,7 @@ excerpt: "If your sales team is struggling to keep pace with competitors leverag
 date: "2026-05-04"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-competitor-advantage.jpg"
+coverImage: ""
 coverImageCredit: "Stock image of business people collaborating"
 coverImageCreditUrl: "https://www.pexels.com/photo/group-of-people-walking-indoors-1181484/"
 ---

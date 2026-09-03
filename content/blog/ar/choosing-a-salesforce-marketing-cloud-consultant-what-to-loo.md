@@ -4,7 +4,7 @@ excerpt: "أطلق العنان لإمكانياتك التسويقية من خ�
 date: "2026-08-03"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/marketing-cloud-consultant-hero.jpg"
+coverImage: ""
 coverImageCredit: "Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-board-with-charts-on-it-9kC9e5J0S34"
 ---

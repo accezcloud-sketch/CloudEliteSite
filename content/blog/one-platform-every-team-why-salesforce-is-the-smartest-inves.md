@@ -4,7 +4,7 @@ excerpt: "In today's rapidly evolving business landscape, fragmented systems and
 date: "2026-05-28"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-platform-vision.jpg"
+coverImage: ""
 coverImageCredit: "Stock photo illustrating digital transformation"
 coverImageCreditUrl: "https://www.pexels.com/photo/network-of-connections-373543/"
 ---

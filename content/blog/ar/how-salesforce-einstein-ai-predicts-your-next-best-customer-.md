@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف تمكّن تقنية Einstein AI من Salesforce ا
 date: "2026-06-13"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/einstein-ai-prediction.jpg"
+coverImage: ""
 coverImageCredit: "AI-generated image of a futuristic data analysis interface with glowing customer icons"
 coverImageCreditUrl: "https://www.example.com/credit/ai-generated"
 ---

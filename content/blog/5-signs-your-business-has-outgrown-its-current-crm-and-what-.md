@@ -4,7 +4,7 @@ excerpt: "Discover the tell-tale signs that your current CRM is holding your bus
 date: "2026-06-05"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/crm-growth-signs.jpg"
+coverImage: ""
 coverImageCredit: "Photo by [Name] on [Unsplash/Pexels]"
 coverImageCreditUrl: "https://unsplash.com/photos/[ID]"
 ---

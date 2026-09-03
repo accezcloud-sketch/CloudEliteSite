@@ -4,7 +4,7 @@ excerpt: "حوّل جهودك التسويقية من التخمين إلى ال
 date: "2026-08-07"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/data-driven-marketing-salesforce.jpg"
+coverImage: ""
 coverImageCredit: "AI Generated Image"
 coverImageCreditUrl: "https://example.com/credit"
 ---

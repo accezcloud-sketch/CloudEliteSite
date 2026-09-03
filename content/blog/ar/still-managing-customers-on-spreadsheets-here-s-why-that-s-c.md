@@ -4,7 +4,7 @@ excerpt: "إذا كانت شركتك لا تزال تعتمد على جداول 
 date: "2026-05-30"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/spreadsheet-costing.jpg"
+coverImage: "/images/blog/still-managing-customers-on-spreadsheets-here-s-why-that-s-c.jpg"
 coverImageCredit: "Photo by Teng Yuhong on Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/a-keyboard-with-a-card-on-it-P-DPrKgb11k"
 ---

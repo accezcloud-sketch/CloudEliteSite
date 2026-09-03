@@ -4,7 +4,7 @@ excerpt: "Discover how bespoke Salesforce solutions can tackle unique business c
 date: "2026-08-25"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/custom-salesforce-apps.jpg"
+coverImage: ""
 coverImageCredit: "AI Generated Image"
 coverImageCreditUrl: "https://example.com/ai-images"
 ---

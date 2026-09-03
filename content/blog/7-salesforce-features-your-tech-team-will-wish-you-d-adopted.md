@@ -4,7 +4,7 @@ excerpt: "Unlock your team's full potential by leveraging these powerful Salesfo
 date: "2026-05-18"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-adoption.jpg"
+coverImage: ""
 coverImageCredit: "Designed by Freepik"
 coverImageCreditUrl: "https://www.freepik.com/free-vector/flat-design-team-working-illustration_12943773.htm#page=2&query=teamwork+technology&position=40&from_view=search&track=ais"
 ---

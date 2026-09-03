@@ -4,7 +4,7 @@ excerpt: "Navigate your Salesforce Marketing Cloud journey with confidence throu
 date: "2026-07-30"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/sfmc_roadmap.jpg"
+coverImage: "/images/blog/salesforce-marketing-cloud-implementation-a-step-by-step-roa.jpg"
 coverImageCredit: "Abstract digital background with connecting lines and nodes"
 coverImageCreditUrl: "https://unsplash.com/photos/abstract-digital-background-with-connecting-lines-and-nodes-Jk27t8-k7rA"
 ---

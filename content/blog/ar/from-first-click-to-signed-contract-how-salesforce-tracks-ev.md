@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف تسجل Salesforce بدقة كل تفاعل، وت�
 date: "2026-06-03"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-tracking.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce logo on a city skyline"
 coverImageCreditUrl: "https://unsplash.com/photos/salesforce-logo-on-city-skyline-during-daytime-4JcR5h5tCmk"
 ---

@@ -4,7 +4,7 @@ excerpt: "التنقل في المشهد المعقد لأتمتة التسوي�
 date: "2026-07-18"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/pardot-vs-marketing-cloud.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce"
 coverImageCreditUrl: "https://www.salesforce.com/"
 ---

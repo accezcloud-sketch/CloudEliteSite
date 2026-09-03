@@ -4,7 +4,7 @@ excerpt: "في مشهد الأعمال سريع التطور اليوم، لم �
 date: "2026-05-28"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-platform-vision.jpg"
+coverImage: ""
 coverImageCredit: "Stock photo illustrating digital transformation"
 coverImageCreditUrl: "https://www.pexels.com/photo/network-of-connections-373543/"
 ---

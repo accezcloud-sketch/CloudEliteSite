@@ -4,7 +4,7 @@ excerpt: "Unlock B2B growth in Saudi Arabia with a strategic approach to Account
 date: "2026-07-16"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/abm-salesforce.jpg"
+coverImage: ""
 coverImageCredit: "Photo by [Unsplash user](https://unsplash.com/@andrewkox)"
 coverImageCreditUrl: "https://unsplash.com/photos/a-person-holding-a-laptop-computer-in-front-of-a-screen-kox_a2z7n2k"
 ---

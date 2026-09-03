@@ -4,7 +4,7 @@ excerpt: "Unlock seamless integration for your enterprise by connecting all your
 date: "2026-08-29"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/mulesoft-hero.jpg"
+coverImage: ""
 coverImageCredit: "MuleSoft"
 coverImageCreditUrl: "https://www.mulesoft.com/"
 ---

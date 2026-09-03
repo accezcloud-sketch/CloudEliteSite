@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لـ Salesforce AppExchange تجهيز عم
 date: "2026-06-01"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/appexchange-innovation.jpg"
+coverImage: ""
 coverImageCredit: "Shutterstock"
 coverImageCreditUrl: "https://www.shutterstock.com"
 ---

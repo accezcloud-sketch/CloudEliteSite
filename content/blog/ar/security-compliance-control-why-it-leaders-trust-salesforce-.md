@@ -4,7 +4,7 @@ excerpt: "في مشهد الأعمال المترابط اليوم، لم يعد
 date: "2026-06-07"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/placeholder-security.jpg"
+coverImage: ""
 coverImageCredit: "Freepik"
 coverImageCreditUrl: "https://www.freepik.com"
 ---

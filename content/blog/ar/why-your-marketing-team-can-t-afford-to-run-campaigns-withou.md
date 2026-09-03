@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لدمج Salesforce في استراتيجي
 date: "2026-06-09"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-marketing-cloud-campaign.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce"
 coverImageCreditUrl: "https://www.salesforce.com/news/stories/salesforce-marketing-cloud-powers-innovation/"
 ---

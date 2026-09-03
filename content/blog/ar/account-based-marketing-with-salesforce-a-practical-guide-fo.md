@@ -4,7 +4,7 @@ excerpt: "أطلق العنان لنمو B2B في المملكة العربية 
 date: "2026-07-16"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/abm-salesforce.jpg"
+coverImage: ""
 coverImageCredit: "صورة بواسطة [مستخدم Unsplash](https://unsplash.com/@andrewkox)"
 coverImageCreditUrl: "https://unsplash.com/photos/a-person-holding-a-laptop-computer-in-front-of-a-screen-kox_a2z7n2k"
 ---

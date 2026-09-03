@@ -4,7 +4,7 @@ excerpt: "Struggling to manage fragmented social media efforts across multiple p
 date: "2026-07-28"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/social-media-salesforce.png"
+coverImage: ""
 coverImageCredit: "Designed by Freepik"
 coverImageCreditUrl: "https://www.freepik.com/"
 ---

@@ -4,7 +4,7 @@ excerpt: "Unlock unparalleled customer engagement by strategically mapping and o
 date: "2026-07-08"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/customer-journey-mapping.jpg"
+coverImage: ""
 coverImageCredit: "Unsplash"
 coverImageCreditUrl: "https://unsplash.com/"
 ---

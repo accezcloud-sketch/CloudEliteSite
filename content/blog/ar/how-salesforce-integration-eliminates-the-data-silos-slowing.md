@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف تكسر حلول Salesforce المتكاملة ال
 date: "2026-05-20"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/data_silos_integration.png"
+coverImage: "/images/blog/how-salesforce-integration-eliminates-the-data-silos-slowing.jpg"
 coverImageCredit: "Photo by Thom Milkovic on Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/looking-up-at-two-tall-skyscrapers-in-a-city-H8ddK25J2Mk"
 ---

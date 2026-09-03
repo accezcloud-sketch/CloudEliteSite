@@ -4,7 +4,7 @@ excerpt: "Unlock the true potential of your Salesforce CRM by understanding the 
 date: "2026-08-21"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/customize-vs-configure.jpg"
+coverImage: ""
 coverImageCredit: "A blend of digital code and traditional Arabian architecture"
 coverImageCreditUrl: "https://www.example.com/images/attribution"
 ---

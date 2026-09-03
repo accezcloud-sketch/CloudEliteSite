@@ -4,7 +4,7 @@ excerpt: "Discover how the Salesforce AppExchange can instantly equip your Saudi
 date: "2026-06-01"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/appexchange-innovation.jpg"
+coverImage: ""
 coverImageCredit: "Shutterstock"
 coverImageCreditUrl: "https://www.shutterstock.com"
 ---

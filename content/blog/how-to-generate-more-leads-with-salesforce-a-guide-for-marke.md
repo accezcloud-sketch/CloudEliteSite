@@ -4,7 +4,7 @@ excerpt: "Unlock the power of Salesforce to transform your marketing efforts and
 date: "2026-07-05"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/salesforce-lead-generation-saudi.jpg"
+coverImage: ""
 coverImageCredit: "Image by Freepik"
 coverImageCreditUrl: "https://www.freepik.com"
 ---

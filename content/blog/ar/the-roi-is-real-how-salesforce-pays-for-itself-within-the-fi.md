@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لتطبيق Salesforce الاستراتي�
 date: "2026-04-20"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/salesforce-roi.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Rawpixel.com"
 coverImageCreditUrl: "https://www.pexels.com/photo/business-people-shaking-hands-while-standing-in-office-159984/"
 ---

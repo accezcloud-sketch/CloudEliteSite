@@ -4,7 +4,7 @@ excerpt: "في مشهد الأعمال السعودي سريع التطور، ل
 date: "2026-04-09"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/saudi_business_transformation.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Saudi Vision 2030 on Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/a-city-skyline-with-tall-buildings-in-the-background-W5512V8yI5A"
 ---

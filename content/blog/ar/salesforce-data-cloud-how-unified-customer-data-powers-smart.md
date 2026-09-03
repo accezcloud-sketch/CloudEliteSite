@@ -4,7 +4,7 @@ excerpt: "أطلق العنان لفعالية تسويقية غير مسبوق�
 date: "2026-07-22"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/data-cloud-hero.jpg"
+coverImage: "/images/blog/salesforce-data-cloud-how-unified-customer-data-powers-smart.jpg"
 coverImageCredit: "Photo by Y M on Unsplash"
 coverImageCreditUrl: "https://unsplash.com/photos/turned-on-macbook-pro-Ky9JHrdvb1o"
 ---

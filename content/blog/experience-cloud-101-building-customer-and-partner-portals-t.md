@@ -4,7 +4,7 @@ excerpt: "Unlock superior customer and partner engagement by leveraging Salesfor
 date: "2026-08-17"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/experience-cloud-portals.jpg"
+coverImage: ""
 coverImageCredit: "Photo by Unsplash"
 coverImageCreditUrl: "https://unsplash.com/"
 ---

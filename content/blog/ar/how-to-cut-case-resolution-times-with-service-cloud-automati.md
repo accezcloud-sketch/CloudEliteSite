@@ -4,7 +4,7 @@ excerpt: "اكتشف كيف يمكن لأتمتة Service Cloud تقليل أو�
 date: "2026-08-11"
 author: "فريق كلاود إيليت"
 category: "استشارات"
-coverImage: "/images/blog/service-cloud-automation.jpg"
+coverImage: ""
 coverImageCredit: "Image by wayhomestudio on Freepik"
 coverImageCreditUrl: "https://www.freepik.com/free-photo/hands-typing-keyboard-wooden-desk_1174575.htm#page=2&query=customer+support+automation&position=26&from_view=search&track=ais"
 ---

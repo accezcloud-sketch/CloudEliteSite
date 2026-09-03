@@ -4,7 +4,7 @@ excerpt: "Discover how strategic Salesforce Marketing Automation can transform c
 date: "2026-07-20"
 author: "CloudElite Team"
 category: "Consulting"
-coverImage: "/images/blog/reduce-customer-churn-salesforce-marketing-automation.jpg"
+coverImage: ""
 coverImageCredit: "Salesforce Marketing Cloud"
 coverImageCreditUrl: "https://www.salesforce.com/products/marketing-cloud/"
 ---
