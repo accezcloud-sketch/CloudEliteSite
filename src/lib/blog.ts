@@ -32,12 +32,19 @@ function quoteBareScalars(raw: string): string {
   });
 }
 
+// gray-matter caches the file object BEFORE parsing it, so a file that throws
+// leaves an empty, unparsed entry in its cache. Every later call for the same
+// content then returns that empty object without throwing, which would skip the
+// repair below and silently blank the post. Passing an options object opts out
+// of that cache so parsing (and any failure) is consistent on every call.
+const NO_CACHE = {};
+
 function parsePost(raw: string, source: string) {
   try {
-    return matter(raw);
+    return matter(raw, NO_CACHE);
   } catch {
     try {
-      const parsed = matter(quoteBareScalars(raw));
+      const parsed = matter(quoteBareScalars(raw), NO_CACHE);
       console.warn(`[blog] Repaired malformed frontmatter in ${source}`);
       return parsed;
     } catch (err) {
